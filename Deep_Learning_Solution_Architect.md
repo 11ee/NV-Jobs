@@ -11,11 +11,13 @@ NVIDIA (纳斯达克代码：NVDA) 是一家计算机技术公司，公司一直
 简历投递: tracyw@nvidia.com   Wechat: 1751315121
 
 Deep Learning Solution Architect - Beijing or Shanghai, China
+
 What you’ll be doing:
-Assist NVIDIA Account Managers in supporting existing lighthouse accounts and driving new business in those accounts and new accounts.
-Deliver technical projects, demos and client support tasks as directed by the Solution Architecture leadership team.
-Provide technical support for GPU system deployments.
-Be an industry thought leader on integrating NVIDIA technology into applications built on Deep Learning, High Performance Data Analytics, Robotics, Signal Processing and other key applications.
+1.Assist NVIDIA Account Managers in supporting existing lighthouse accounts and driving new business in those accounts and new accounts.
+2.Deliver technical projects, demos and client support tasks as directed by the Solution Architecture leadership team.
+3.Provide technical support for GPU system deployments.
+4.Be an industry thought leader on integrating NVIDIA technology into applications built on Deep Learning, High Performance Data Analytics, Robotics, Signal Processing and other key applications.
+
 What we need to see:
 1-3 years’ experience with development and application of Machine Learning, data analytics, or computer vision work flows.
 Outstanding verbal and written communication skills
@@ -26,5 +28,8 @@ CUDA optimization experience.
 Extensive experience designing and deploying large scale HPC and enterprise computing systems.
 
 
-我们是Glassdoor选出的“最佳工作场所” 我们是《人物》选出的“年度关爱公司 ” 我们是《财富》选出的“全球最受赞赏公司” 我们这里还有“评价最高的CEO” 我们，就是AI计算的引领者NVIDIA, 梦想的机会就在眼前 ,你来不来？
+我们是Glassdoor选出的“最佳工作场所” 
+我们是《人物》选出的“年度关爱公司 ” 
+我们是《财富》选出的“全球最受赞赏公司” 我们这里还有“评价最高的CEO” 
+我们，就是AI计算的引领者NVIDIA, 梦想的机会就在眼前 ,你来不来？
 
