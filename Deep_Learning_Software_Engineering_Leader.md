@@ -1,3 +1,5 @@
+简历投递： tracyw@nvidia.com Wechat: 1751315121
+
 ### Deep Learning Software Engineering Leader -  Shanghai
 
 NVIDIA AI Infra事业部将在上海组建一支服务于自动驾驶的深度学习软件研发团队
