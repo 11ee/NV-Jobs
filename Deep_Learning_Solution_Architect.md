@@ -1,11 +1,12 @@
 关于 NVIDIA
 NVIDIA (纳斯达克代码：NVDA) 是一家计算机技术公司，公司一直在 GPU 加速计算的行业中勇当开路先锋。NVIDIA 以满足全球最苛刻的用户需求为己任，为游戏玩家、设计师以及科学家提供产品、服务以及软件，在虚拟现实、人工智能、专业可视化以及自动驾驶汽车等领域中带来出色的用户体验。  
+
 目前NVIDIA在中国热招解决方案架构师， 该岗位致力于协同客户经理将NVIDIA最新的深度学习/高性能计算解决方案与技术带给我们的客户, 帮助客户通过实施NVIDIA技术解决方案来提升整体效率。
 
 基本要求:  
 至少1年以上深度学习相关经验 （算法，应用，竞赛，论文…）   有面向客户经验为佳
 
-简历投递: tracyw@nvidia.com   Wechat: 1751315121
+简历投递: tracyw@nvidia.com             Wechat: 1751315121
 
 Deep Learning Solution Architect - Beijing or Shanghai, China
 
