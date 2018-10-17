@@ -1,8 +1,10 @@
 **We are now looking for a Video Analytics Algorithm Development Leader**
 
-Nvidia is looking for Software Leader for developing deep learning and computer vision algorithms and applications for Intelligent Video Analytics. This challenging role will require someone who deeply understands and can architect algorithms that advance the application of artificial intelligence and machine learning to the Intelligent Video Analytics and Embedded market. Practical experience in the use of machine learning/deep learning along with a good knowledge of computer vision techniques will be preferable. Experience in building a team of algorithm developers will be critical.
+Nvidia is looking for Software Leader for developing deep learning and computer vision algorithms and applications for Intelligent Video Analytics.   
+This challenging role will require someone who deeply understands and can architect algorithms that advance the application of artificial intelligence and machine learning to the Intelligent Video Analytics and Embedded market.   
+Practical experience in the use of machine learning/deep learning along with a good knowledge of computer vision techniques will be preferable. Experience in building a team of algorithm developers will be critical.
 
-What you’ll be doing:  
+**What you’ll be doing**  
 - Analyze, develop and prototype key deep learning and video analytics algorithms and applications  
 - Building a team of world class algorithm developers that can work on complex deep learning and computer vision solutions and applications
 - Work and collaborate with different software, research and hardware teams across geographies for solving critical problems
