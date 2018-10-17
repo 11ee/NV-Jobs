@@ -8,3 +8,5 @@ NVIDIA Recruiter, 负责 NVIDIA China 深度学习/汽车岗位招聘  职位咨
 #### JR1903966 - [数据分析工程师](/Senior_Data_Analytics_Software_Engineer.md) - 上海 
 #### JR1913452 - [汽车系统工程师](/Automotive_Solution_Engineer.md) - 上海
 #### JR1905460 - [深度学习性能架构师.md](/深度学习性能架构师.md) - 上海 新竹
+#### JR1905460 - [深度学习性能架构师.md](/深度学习性能架构师.md) - 上海 新竹                                  
+#### JR1918878 - [Hardware Security Arch Engineer.md](/Hardware Security Arch Engineer.md.md)- 上海
