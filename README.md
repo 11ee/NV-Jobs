@@ -1,5 +1,11 @@
-NVIDIA Recruiter, 负责 NVIDIA China 深度学习/高性能计算/无人驾驶岗位招聘  
-- 职位咨询: tracyw@nvidia.com   Wechat: 1751315121
+我们是Glassdoor选出的“最佳工作场所” 我们是《人物》选出的“年度关爱公司 ”  
+我们是《财富》选出的“全球最受赞赏公司” 我们这里还有“评价最高的CEO”  
+我们，就是AI计算的引领者NVIDIA, 梦想的机会就在眼前 ,你来不来？  
+
+**简历投递**
+NVIDIA Recruiter Tracy, 负责 NVIDIA China 深度学习/高性能计算/无人驾驶岗位招聘      
+职位咨询: tracyw@nvidia.com   Wechat: 1751315121  
+
 
 ### 深度学习岗位：
 #### JR1916036 - [Video_Analytics_Algorithm_Development_Leader](/Video_Analytics_Algorithm_Development_Leader.md) - 上海 北京
@@ -17,8 +23,11 @@ NVIDIA Recruiter, 负责 NVIDIA China 深度学习/高性能计算/无人驾驶�
 
 ### 芯片岗位：
 #### JR1917221 - [GPU_Architect (Virtual Prototyping)](/GPU_Architect.md)-上海
-#### JR1918878 - [Hardware Security Arch Engineer.md](/Hardware_Security_Arch_Engineer.md) -上海
+#### JR1918878 - [Hardware Security Arch Engineer](/Hardware_Security_Arch_Engineer.md) -上海
 
 ### 其他类：
 #### JR1915135 - [资深软件项目经理-汽车客户项目](/Senior_Software_Program_Manager.md) - 上海 北京
-#### JR1916277 - [资深软件项目经理-汽车客户项目](/Customer_Technical_Program_Manager.md) - 北京 上海 深圳
+#### JR1916277 - [资深软件项目经理-](/Customer_Technical_Program_Manager.md) - 北京 上海 深圳  
+
+
+我们身处无人区, 无人领航，没有方向，没有答案，有的只有待解决的技术问题。我们领航，确定方向，找到答案。如果你喜欢不确定性，喜欢挑战未知，欢迎加入我们
