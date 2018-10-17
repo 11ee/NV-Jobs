@@ -29,6 +29,6 @@ You will provide the leadership for the software program team, guide the directi
 - Agile Certification/training a plus
 - PM Certification/training desired  
 
-**Ways to stand out from the crowd: **
-Team player, loves to work in a team environment
-Native Mandarin, Fluent English
+**Ways to stand out from the crowd**  
+Team player, loves to work in a team environment  
+Native Mandarin, Fluent English  
