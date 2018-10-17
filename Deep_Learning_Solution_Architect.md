@@ -1,33 +1,26 @@
-关于 NVIDIA
-NVIDIA (纳斯达克代码：NVDA) 是一家计算机技术公司，公司一直在 GPU 加速计算的行业中勇当开路先锋。NVIDIA 以满足全球最苛刻的用户需求为己任，为游戏玩家、设计师以及科学家提供产品、服务以及软件，在虚拟现实、人工智能、专业可视化以及自动驾驶汽车等领域中带来出色的用户体验。  
+**关于 NVIDIA-Deep Learning Solution Architect**
+NVIDIA (纳斯达克代码：NVDA) 是一家计算机技术公司，公司一直在 GPU 加速计算的行业中勇当开路先锋。NVIDIA 以满足全球最苛刻的用户需求为己任，为游戏玩家、设计师以及科学家提供产品、服务以及软件，在虚拟现实、人工智能、专业可视化以及自动驾驶汽车等领域中带来出色的用户体验。   
 
-目前NVIDIA在中国热招解决方案架构师， 该岗位致力于协同客户经理将NVIDIA最新的深度学习/高性能计算解决方案与技术带给我们的客户, 帮助客户通过实施NVIDIA技术解决方案来提升整体效率。
+我们正在进入人工智能的时代，GPU Computing加速AI / DL的飞速发展，并正在重塑各行各业的技术生态和商业模式，深刻地改变人们的工作和生活方式。  
+NVIDIA致力于AI技术创新，并为我们的客户和合作伙伴提供平台和技术，加速AI应用行业落地。解决方案架构师在这个过程中扮演着独特的角色，该岗位将能够理解各个行业的业务需求与应用场景，并致力于将NVIDIA最新的深度学习 / 高性能计算等解决方案与前沿技术带给我们的客户和合作伙伴, 帮助他们通过实施NVIDIA技术解决方案来加速AI行业落地，继而提升企业整体运行效率并改善用户体验。  
+工作地点： 北京/上海/深圳
 
-基本要求:  
-至少1年以上深度学习相关经验 （算法，应用，竞赛，论文…）   有面向客户经验为佳
-
-简历投递: tracyw@nvidia.com             Wechat: 1751315121
-
-Deep Learning Solution Architect - Beijing or Shanghai, China
-
-What you’ll be doing:  
-1.Assist NVIDIA Account Managers in supporting existing lighthouse accounts and driving new business in those accounts and new accounts.  
-2.Deliver technical projects, demos and client support tasks as directed by the Solution Architecture leadership team.  
-3.Provide technical support for GPU system deployments.  
+**you’ll be doing:** 
+1.Assist NVIDIA Account Managers in supporting existing lighthouse accounts and driving new business in those accounts and new accounts.    2.Deliver technical projects, demos and client support tasks as directed by the Solution Architecture leadership team.    
+3.Provide technical support for GPU system deployments.    
 4.Be an industry thought leader on integrating NVIDIA technology into applications built on Deep Learning, High Performance Data Analytics, Robotics, Signal Processing and other key applications.  
 
-What we need to see:  
-1-3 years’ experience with development and application of Machine Learning, data analytics, or computer vision work flows.  
-Outstanding verbal and written communication skills  
-Desire to be involved in multiple diverse and innovative projects  
-Ways to stand out from the crowd:  
-Experience with Deep Learning frameworks and tools, eg. Digits, Caffe, Torch, TensorFlow.  
-CUDA optimization experience.  
-Extensive experience designing and deploying large scale HPC and enterprise computing systems.  
+**What we need to see**  
+- 1-3 years’ experience with development and application of Machine Learning, data analytics, or computer vision work flows   
+- Outstanding verbal and written communication skills    
+- Desire to be involved in multiple diverse and innovative projects    
+**Ways to stand out from the crowd:**  
+- Experience with Deep Learning frameworks and tools, eg. Digits, Caffe, Torch, TensorFlow.    
+- CUDA optimization experience.  
+- Extensive experience designing and deploying large scale HPC and enterprise computing systems.    
 
-
-我们是Glassdoor选出的“最佳工作场所”   
-我们是《人物》选出的“年度关爱公司 ”   
-我们是《财富》选出的“全球最受赞赏公司” 我们这里还有“评价最高的CEO”   
-我们，就是AI计算的引领者NVIDIA, 梦想的机会就在眼前 ,你来不来？  
+我们是Glassdoor选出的“最佳工作场所”     
+我们是《人物》选出的“年度关爱公司 ”     
+我们是《财富》选出的“全球最受赞赏公司” 我们这里还有“评价最高的CEO”     
+我们，就是AI计算的引领者NVIDIA, 梦想的机会就在眼前 ,你来不来？    
 
