@@ -1,4 +1,5 @@
-NVIDIA Recruiter, 负责 NVIDIA China 深度学习/高性能计算/无人驾驶岗位招聘  职位咨询: tracyw@nvidia.com   Wechat: 1751315121
+NVIDIA Recruiter, 负责 NVIDIA China 深度学习/高性能计算/无人驾驶岗位招聘  
+- 职位咨询: tracyw@nvidia.com   Wechat: 1751315121
 
 ### 深度学习岗位：
 
