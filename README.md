@@ -12,5 +12,5 @@ NVIDIA Recruiter, 负责 NVIDIA China 深度学习/高性能计算/无人驾驶�
 #### JR1913452 - [汽车系统工程师](/Automotive_Solution_Engineer.md) - 上海
 
 ### 芯片岗位：
-#### JR1917221 - [GPU_Architect (Virtual Prototyping)](/GPU_Architect (Virtual Prototyping).md-上海
+#### JR1917221 - [GPU_Architect (Virtual Prototyping)](/GPU_Architect.md)-上海
 #### JR1918878 - [Hardware Security Arch Engineer.md](/Hardware_Security_Arch_Engineer.md) -上海
