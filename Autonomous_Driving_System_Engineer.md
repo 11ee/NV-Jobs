@@ -15,7 +15,7 @@ You are expected to have strong communication, organizational, and analytical sk
 - You know too much about system programming, threading, mutex, synchronization, communication, and parallel computing to build highly scalable and efficient applications
 - You are more than familiar with underlying hardware architecture for CPU/GPU and memory, and understand performance from bottom up
 - Prior experience working in the following areas: Kernel development, Autonomous Vehicles, Robotics, Self-Driving-Cars, GPU technology, Computer Vision, Deep Learning
-- You should display outstanding communication and collaboration skills, as we work as a tightly-knit team, always discussing and learning from each other and driving things forward and making solid progress
+- You should display outstanding communication and collaboration skills, as we work as a tightly-knit team, always discussing and learning from each other and driving things forward and making solid progress  
 **Ways to stand out from the crowd:**
 - Deep understanding of system architecture, CPU/GPU/Memory/Storage, everything related to performance optimization
 - Solid working experience in kernel developing, Linux/QNX, and all too familiar with OS scheduling, event handling, real-time requirements.
