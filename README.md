@@ -2,10 +2,13 @@
 我们是《财富》选出的“全球最受赞赏公司” 我们这里还有“评价最高的CEO”  
 我们，就是AI计算的引领者NVIDIA, 梦想的机会就在眼前 ,你来不来？*
 
-**[简历投递]**  
-NVIDIA Recruiter Tracy, 负责NVIDIA China 深度学习/高性能计算/无人驾驶岗位招聘        
+**[关于Tracy]**  
+NVIDIA Recruiter Tracy, 负责NVIDIA China 深度学习/高性能计算/无人驾驶岗位招聘      
 
-公司邮箱: tracyw@nvidia.com   Wechat: 1751315121  
+[Linkedin主页](https://www.linkedin.com/in/tracy-nvidia/ "悬停显示")
+
+**[简历投递]**    
+邮箱: tracyw@nvidia.com     Wechat: 1751315121  
 
 
 ### 深度学习岗位：
