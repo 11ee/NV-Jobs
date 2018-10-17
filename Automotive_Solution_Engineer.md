@@ -1,4 +1,4 @@
-**Automotive Solution Engineer**  当无人驾驶开始风靡世界，每个人都应参与到这场革命中来。为了扩展中国区无人驾驶业务，NVIDIA正在国内成立无人驾驶解决方案团队:  
+**Automotive Solution Engineer**  当无人驾驶开始风靡世界，每个人都应参与到这场革命中来。为了扩展中国区无人驾驶业务，NVIDIA正在国内成立无人驾驶汽车团队:  
 **职位关键词**
 - 熟悉QNX系统
 - 熟悉Hypervisor    
