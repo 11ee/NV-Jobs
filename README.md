@@ -18,17 +18,20 @@ NVIDIA Recruiter Tracy, 负责NVIDIA China 深度学习/高性能计算/无人�
 #### JR1905460 - [深度学习性能架构师](/深度学习性能架构师.md) - 上海 新竹      
 #### JR1917227 - [高性能计算_解决方案架构师](/HPC_Architect.md) 
 
-### 无人驾驶/汽车岗位：
+### 无人驾驶/汽车岗位(研发/BD/市场)：
 #### JR1913452 - [汽车系统工程师](/Automotive_Solution_Engineer.md) - 上海
 #### JR1918613 - [无人驾驶解决方案架构师](/Autonomous_Driving_Solution_Architect.md) - 上海 北京
 #### JR1908697 - [无人驾驶系统软件工程师](/Autonomous_Driving_System_Engineer.md) -上海
+#### JR1915135 - [资深软件项目经理-汽车客户项目](/Senior_Software_Program_Manager.md) - 上海 北京
+
+
+
 
 ### 芯片岗位：
 #### JR1917221 - [GPU_Architect (Virtual Prototyping)](/GPU_Architect.md)-上海
 #### JR1918878 - [Hardware Security Arch Engineer](/Hardware_Security_Arch_Engineer.md) -上海
 
-### 其他类：
-#### JR1915135 - [资深软件项目经理-汽车客户项目](/Senior_Software_Program_Manager.md) - 上海 北京
+### 项目管理：
 #### JR1916277 - [资深软件项目经理-](/Customer_Technical_Program_Manager.md) - 北京 上海 深圳  
   
   
