@@ -1,5 +1,7 @@
 
-**NVIDIA IS Hiring Senior FAE Engineer** 
+**NVIDIA IS Hiring Senior FAE Engineer-AGX** 
+
+*工作地点：北京 上海 深圳*
 
 NVIDIA’s deep learning platforms have already made a major impact to the field and is broadly used across leading academic institutions, start-ups, and industry, including the world’s largest Internet companies. Our success has been based on laser-focused industry vertical business development, building a strong developer ecosystem and scaling out the business using a partner channel and creative marketing. We need passionate, hard-working and creative people to help us pursue more of these rare opportunities. This Field Applications Engineering role is for an expert in embedded systems and leader to our customers who believe that deep learning, data science, and artificial intelligence is a new computing revolution and has the potential to transform industry.
 
@@ -29,11 +31,9 @@ Establish strong relationships and communication channels with internal teams.
 - Strong written and oral communications skills in English with the ability to effectively collaborate with management and engineering.
 
 **Ways to stand out from the crowd:** 
-ARM and NVIDIA GPU development experience.
-C/C++ and Python programming skills.
-Embedded Linux System, APIs and similar embedded OS knowledge.
-Hardware design and knowledge of CSI/DSI, DP/eDP/HDMI, CAN, I2C, I2S, SPI, PCIe, UART, USB, SATA.
-Experience working with OEMs in the embedded robotics or intelligent video analytics space.
-Deep Learning and/or AI experience.
-Advanced degree
-NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most brilliant and talented people in the world working for us. If you're creative and autonomous, we want to hear from you!
+- ARM and NVIDIA GPU development experience.
+- C/C++ and Python programming skills.
+- Embedded Linux System, APIs and similar embedded OS knowledge.
+- Hardware design and knowledge of CSI/DSI, DP/eDP/HDMI, CAN, I2C, I2S, SPI, PCIe, UART, USB, SATA.
+- Experience working with OEMs in the embedded robotics or intelligent video analytics space.
+- Deep Learning and/or AI experience.
