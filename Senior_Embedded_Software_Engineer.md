@@ -1,6 +1,7 @@
-NVIDIA has continuously reinvented itself over two decades. NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world.
+**Senior_Embedded_Software_Engineer**
 
-This is our life’s work — to amplify human creativity and intelligence.
+- 工作地点：上海
+- 要求：有过BSP/Kernel Driver经验
 
 READY TO HELP US CHANGE THE WORLD?
 
