@@ -23,6 +23,7 @@ NVIDIA Recruiter Tracy, 负责NVIDIA China 深度学习/高性能计算/无人�
 #### JR1918613 - [无人驾驶解决方案架构师](/Autonomous_Driving_Solution_Architect.md) - 上海 北京
 #### JR1908697 - [无人驾驶系统软件工程师](/Autonomous_Driving_System_Engineer.md) -上海
 #### JR1915135 - [资深软件项目经理-汽车客户项目](/Senior_Software_Program_Manager.md) - 上海 北京
+#### JR1919419 - [市场经理-汽车行业](/Marketing_Manager_for_Automotive.md)- 北京
 
 ### 客户支持岗位
 #### JR1920125 - [资深FAE工程师](/Senior_FAE_Engineer.md)- 北京 深圳 上海
