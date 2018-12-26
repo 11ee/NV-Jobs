@@ -29,8 +29,8 @@ NVIDIA Recruiter Tracy, 负责NVIDIA China 深度学习/高性能计算/无人�
 #### JR1920224 - [Multimedia Engineer多媒体工程师](/多媒体软件工程师.md)- 上海
 
 ### 高性能计算类：
-#### JR1917227 - [高性能计算_解决方案架构师](/HPC_Architect.md) 
-#### JR1915839 - [高性能计算研发工程师](/高性能计算研发工程师.md)
+#### JR1917227 - [高性能计算_解决方案架构师](/HPC_Architect.md) -北京 
+#### JR1915839 - [高性能计算研发工程师](/高性能计算研发工程师.md) - 北京 上海 深圳
 #### JR1920468 - [GPU Computing Engineer](/GPU Computing Engineer.md)-上海  
 
 ### 销售市场
