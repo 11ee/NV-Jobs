@@ -1,4 +1,5 @@
-*我们是Glassdoor选出的“最佳工作场所” 我们是《人物》选出的“年度关爱公司*  
+*我们是Glassdoor选出的“最佳工作场所”   
+我们是《人物》选出的“年度关爱公司*  
 *我们是《财富》选出的“全球最受赞赏公司” 我们这里还有“评价最高的 CEO*  
 *我们,就是AI计算的引领者NVIDIA, 梦想的机会就在眼前 ,你来不来?*
 
@@ -7,8 +8,8 @@ NVIDIA Recruiter Tracy, 负责NVIDIA China 深度学习/高性能计算/无人�
 
 **[简历投递]**    
 邮箱: tracyw@nvidia.com     Wechat: 1751315121  
-
-
+  
+  
 ### 深度学习岗位：
 #### JR1916036 - [深度学习Leader/Manager(视频算法/计算机视觉)](/Video_Analytics_Algorithm_Development_Leader.md) - 上海 北京
 #### JR1905460 - [深度学习性能架构师](/深度学习性能架构师.md) - 上海 新竹
@@ -16,19 +17,15 @@ NVIDIA Recruiter Tracy, 负责NVIDIA China 深度学习/高性能计算/无人�
 #### JR1915839 - [机器学习算法工程师](/机器学习算法工程师.md) - 上海
 #### JR1903966 - [深度学习解决方案架构师](/Deep_Learning_Solution_Architect.md) - 上海 深圳 北京
 #### JR1919616 - [解决方案架构师-机器学习/大数据](Solution_Architect_Finance.md) -北京   
-
   
+    
 ### 无人驾驶/汽车岗位(研发)：
 #### JR1913452 - [汽车系统工程师](/Automotive_Solution_Engineer.md) - 上海
 #### JR1918613 - [无人驾驶解决方案架构师](/Autonomous_Driving_Solution_Architect.md) - 上海 北京
 #### JR1908697 - [无人驾驶系统软件工程师](/Autonomous_Driving_System_Engineer.md) -上海  
 
-  
-### 客户支持岗位
+### 嵌入式岗位
 #### JR1920125 - [嵌入式FAE工程师](/Senior_FAE_Engineer.md)- 北京 深圳   
-
-  
-### 系统开发：
 #### JR1919828 - [嵌入式开发工程师-BSP](/Senior_Embedded_Software_Engineer.md)- 上海
 #### JR1920224 - [多媒体工程师](/多媒体软件工程师.md)- 上海  
   
