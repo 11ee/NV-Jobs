@@ -28,12 +28,11 @@ NVIDIA Recruiter Tracy, 负责NVIDIA China 深度学习/高性能计算/无人�
 ### 客户支持岗位
 #### JR1920125 - [资深FAE工程师](/Senior_FAE_Engineer.md)- 北京 深圳 上海
 
-### 芯片岗位：
-#### JR1917221 - [GPU_Architect (Virtual Prototyping)](/GPU_Architect.md)-上海
-#### JR1918878 - [Hardware Security Arch Engineer](/Hardware_Security_Arch_Engineer.md) -上海
 
 ### 嵌入式开发：
-#### JR1919828 - [嵌入式开发工程师](/Senior_Embedded_Software_Engineer.md)- 上海
+#### JR1919828 - [嵌入式开发工程师-BSP](/Senior_Embedded_Software_Engineer.md)- 上海
+#### JR1920224 - [Multimedia Engineer多媒体工程师](/多媒体软件工程师.md.md)- 上海
+
 
 ### 项目管理：
 #### JR1916277 - [资深软件项目经理-](/Customer_Technical_Program_Manager.md) - 北京 上海 深圳  
