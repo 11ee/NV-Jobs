@@ -10,7 +10,7 @@ NVIDIA Recruiter Tracy, 负责NVIDIA China 深度学习/高性能计算/无人�
 
 
 ### 深度学习岗位：
-#### JR1916036 - [Video_Analytics_Algorithm_Development_Leader](/Video_Analytics_Algorithm_Development_Leader.md) - 上海 北京
+#### JR1916036 - [深度学习Leader/manager(视频编解码/计算机视觉)](/Video_Analytics_Algorithm_Development_Leader.md) - 上海 北京
 #### JR1905460 - [深度学习性能架构师](/深度学习性能架构师.md) - 上海 新竹
 #### JR1917759 - [深度学习DLA架构师](/Deep_Learning_Architect_DLA.md) - 上海
 #### JR1915839 - [机器学习算法工程师](/机器学习算法工程师.md) - 上海
@@ -29,12 +29,12 @@ NVIDIA Recruiter Tracy, 负责NVIDIA China 深度学习/高性能计算/无人�
   
 ### 系统开发：
 #### JR1919828 - [嵌入式开发工程师-BSP](/Senior_Embedded_Software_Engineer.md)- 上海
-#### JR1920224 - [Multimedia Engineer多媒体工程师](/多媒体软件工程师.md)- 上海
+#### JR1920224 - [多媒体工程师](/多媒体软件工程师.md)- 上海
   
 ### 高性能计算类：
 #### JR1917227 - [高性能计算_解决方案架构师](/HPC_Architect.md) -北京 
 #### JR1915839 - [高性能计算研发工程师](/高性能计算研发工程师.md) - 北京 上海 深圳
-#### JR1920468 - [GPU Computing Engineer](/GPU Computing Engineer.md)-上海  
+#### JR1920468 - [GPU Computing Engineer](/GPU_Computing_Engineer.md)-上海  
 
   
 ### 销售市场
