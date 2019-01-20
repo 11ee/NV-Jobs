@@ -8,14 +8,16 @@ NVIDIA Recruiter Tracy, 负责NVIDIA China 深度学习/高性能计算/无人�
 
 **[简历投递]**    
 邮箱: tracyw@nvidia.com     Wechat: 1751315121    
-  
+ 
+### [重点岗位] 
+#### [解决方案架构师](/Solution_Architect.md) - 上海 深圳 北京
   
 ### [深度学习岗位]
 #### [深度学习Leader/Manager(视频算法/计算机视觉)](/Video_Analytics_Algorithm_Development_Leader.md) - 上海 北京
 #### [深度学习性能架构师](/深度学习性能架构师.md) - 上海 新竹
 #### [深度学习DLA架构师](/Deep_Learning_Architect_DLA.md) - 上海
 #### [机器学习算法工程师](/机器学习算法工程师.md) -上海 北京 深圳
-#### [深度学习解决方案架构师](/Deep_Learning_Solution_Architect.md) - 上海 深圳 北京
+#### [解决方案架构师](/Solution_Architect.md) - 上海 深圳 北京
 #### [解决方案架构师-机器学习/大数据](Solution_Architect_Finance.md) -北京     
     
       
