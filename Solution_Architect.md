@@ -35,4 +35,4 @@ NVIDIA (纳斯达克代码：NVDA) 是一家计算机技术公司，公司一直
 - Provide onsite support to solve problems in hardware and software, and deep learning inference.
 - Lead the support of the product through the design-in phase all the way to product end of life.
 - Create technical solutions such as hardware & software demos and example system designs.
-- Provide technical and sales training to direct sales team and channel partners.
+- Provide technical and sales training to direct sales team and channel partners.  
