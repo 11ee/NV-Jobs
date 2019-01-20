@@ -1,8 +1,8 @@
 **关于NVIDIA**  
 NVIDIA (纳斯达克代码：NVDA) 是一家计算机技术公司，公司一直在 GPU 加速计算的行业中勇当开路先锋。NVIDIA 以满足全球最苛刻的用户需求为己任，为游戏玩家、设计师以及科学家提供产品、服务以及软件，在虚拟现实、人工智能、专业可视化以及自动驾驶汽车等领域中带来出色的用户体验    
 
-##Deep Learning Solution Architect##    
-###Responsiblity### 
+**Deep Learning Solution Architect**   
+**Responsiblity** 
 - Assist NVIDIA Account Managers in supporting existing lighthouse accounts and driving new business in those accounts and new accounts.
 - Deliver technical projects, demos and client support tasks as directed by the Solution Architecture leadership team. 
 - Provide technical support for GPU system deployments. 
@@ -12,13 +12,9 @@ NVIDIA (纳斯达克代码：NVDA) 是一家计算机技术公司，公司一直
 - 1-3 years’ experience with development and application of Machine Learning, data analytics, or computer vision work flows     
 - Outstanding verbal and written communication skills    
 - Desire to be involved in multiple diverse and innovative projects    
-**Ways to stand out from the crowd:**    
-- Experience with Deep Learning frameworks and tools, eg. Digits, Caffe, Torch, TensorFlow.    
-- CUDA optimization experience.  
-- Extensive experience designing and deploying large scale HPC and enterprise computing systems.  
 
 **HPC Solution Architect!**    
-*Responsiblity* 
+**Responsiblity** 
 - Assist field Partner Business Manager development in guiding NPN partners and customers through the sales process for GPU Computing products, being responsible for the technical relationship and assisting partners and customers in building creative solutions based on NVIDIA technology.  
 - Be an industry leader with vision on integrating NVIDIA technology into HPC architectures to support Scientific and engineering applications  .
 - Be an internal champion for Deep Learning or Data Science among the NVIDIA technical community.       
