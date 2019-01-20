@@ -1,8 +1,8 @@
-**关于NVIDIA**  
+###关于NVIDIA
 NVIDIA (纳斯达克代码：NVDA) 是一家计算机技术公司，公司一直在 GPU 加速计算的行业中勇当开路先锋。NVIDIA 以满足全球最苛刻的用户需求为己任，为游戏玩家、设计师以及科学家提供产品、服务以及软件，在虚拟现实、人工智能、专业可视化以及自动驾驶汽车等领域中带来出色的用户体验    
 
 **深度学习解决方案架构师**
-  *工作职责* 
+*工作职责* 
 - Assist NVIDIA Account Managers in supporting existing lighthouse accounts and driving new business in those accounts and new accounts.
 - Deliver technical projects, demos and client support tasks as directed by the Solution Architecture leadership team. 
 - Provide technical support for GPU system deployments. 
