@@ -36,3 +36,19 @@ NVIDIA (纳斯达克代码：NVDA) 是一家计算机技术公司，公司一直
 - Lead the support of the product through the design-in phase all the way to product end of life.
 - Create technical solutions such as hardware & software demos and example system designs.
 - Provide technical and sales training to direct sales team and channel partners.  
+
+#### 工作要求
+- BS or MS in Engineering, Mathematics, Physics, or Computer Science.
+- 3+ years of work related experience in a high-tech electronics industry in an embedded design role or technical customer support role. 
+- Capable of working in a rapidly changing environment without losing focus.
+- Ability to multitask effectively in a dynamic environment.
+- Strong analytical and problem-solving skills.
+- Strong time-management and organization skills for coordinating multiple initiatives, priorities, and implementations of new technology and products into very complex projects.
+- Strong written and oral communications skills in English with the ability to effectively collaborate with management and engineering.
+#### Ways to stand out from the crowd:
+- ARM and NVIDIA GPU development experience.
+- C/C++ and Python programming skills.
+- Embedded Linux System, APIs and similar embedded OS knowledge.
+- Hardware design and knowledge of CSI/DSI, DP/eDP/HDMI, CAN, I2C, I2S, SPI, PCIe, UART, USB, SATA.
+- Experience working with OEMs in the embedded robotics or intelligent video analytics space.
+- Deep Learning and/or AI experience.
