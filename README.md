@@ -22,6 +22,7 @@ NVIDIA Recruiter Tracy, 负责NVIDIA China 深度学习/高性能计算/无人�
     
       
 ### [无人驾驶/汽车岗位]
+#### [无人汽车解决方案经理](Autonomous_Solution_Manager.md)- 上海 北京
 #### [汽车系统工程师](/Automotive_Solution_Engineer.md) - 上海
 #### [无人驾驶解决方案架构师](/Autonomous_Driving_Solution_Architect.md) - 上海 北京
 #### [无人驾驶系统软件工程师](/Autonomous_Driving_System_Engineer.md) -上海    
