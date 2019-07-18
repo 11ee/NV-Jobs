@@ -24,8 +24,7 @@ NVIDIA Senior Recruiter, 负责NVIDIA China 深度学习/高性能计算/无人�
 #### [深度学习软件类]
 #### 1.[深度学习性能架构师](/深度学习性能架构师.md) - 上海 北京
 #### 2.[深度学习软件工程师(C++)](/深度学习软件工程师.md) - 上海 北京
-#### 3.[机器学习算法工程师](/机器学习算法工程师.md) -上海 北京 深圳
-#### 4.[高性能计算研发工程师](/高性能计算研发工程师.md) - 北京 上海 深圳
+#### 3.[AI Developer Technology Engineer](/AI_Developer_Technology_Engineer.md) - 上海 北京 深圳
  
 
 
@@ -36,6 +35,8 @@ NVIDIA Senior Recruiter, 负责NVIDIA China 深度学习/高性能计算/无人�
 #### [解决方案架构师](/Solution_Architect.md) - 上海 深圳 北京
 #### [解决方案架构师-机器学习/大数据](Solution_Architect_Finance.md) -北京 
 #### [GPU Computing Engineer](/GPU_Computing_Engineer.md)-北京 上海 深圳 
+#### [机器学习算法工程师](/机器学习算法工程师.md) -上海 北京 深圳
+#### [高性能计算研发工程师](/高性能计算研发工程师.md) - 北京 上海 深圳
       
 #### [无人驾驶/汽车岗位]
 #### [无人汽车解决方案经理](Autonomous_Solution_Manager.md)- 上海 北京
