@@ -18,7 +18,7 @@ NVIDIA Senior Recruiter, 负责NVIDIA China 深度学习/高性能计算/无人�
 #### [深度学习面向客户类]
 #### 1.[深度学习解决方案架构师](/Solution_Architect.md) - 上海 深圳 北京
 #### 2.[电信解决方案架构师](/Solution_Architect.md) - 北京 日本东京
-#### 3.[FAE Engineer](/FAE_Engineer.md) - 上海 深圳 北京
+#### 3.[FAE Engineer](/Senior_FAE_Engineer.md) - 上海 深圳 北京
 
 
 #### [深度学习软件类]
