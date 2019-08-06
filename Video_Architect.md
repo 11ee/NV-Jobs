@@ -9,7 +9,7 @@
 - Master degree or above in Computer Science, Electronic Engineering
 - Minimum of 3 years' experience in the field of video technology ranging from codec implementation, video player and streaming framework
 - Good programming skill and C/C++ coding abilities
-- Fluent English (both written and spoken) and good communication skill
+- Fluent English (both written and spoken) and good communication skill 
 **Ways to stand out from the crowd:**
 - Project experiences on video encoder, decoder or computer vision
 - Experience with video codecs such as H264/AVC, HEVC, VP9 or AV1
