@@ -14,9 +14,9 @@
 - 清楚了解验证的关键milestone以及相关的验证工作及输出
 - 有能力使用合适的图表工具表征验证进度及状态 
 
-足够复杂度的TestBench的搭建经历以及技能如下：
-1.SVA, functional coverage, random constraints等 
-2.有UVM及SystemC经验的从优 
+足够复杂度的TestBench的搭建经历以及技能如下: 
+1.SVA, functional coverage, random constraints等  
+2.有UVM及SystemC经验的从优  
 - 视频编解码及图像处理经验 
 - 高超的脚本技能：Perl, Python或者Shell 
 - 形式验证（Formal Verification） 
