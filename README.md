@@ -14,6 +14,10 @@ NVIDIA Senior Recruiter, 负责NVIDIA China 深度学习/高性能计算/无人�
 #### [硬件类]
 #### 1.[DFT Engineer](/DFT_Engineer.md) -上海
 #### 2.[ASIC Developer](/ASIC_Developer.md) -上海 
+#### 3.[ASIC Design Engineer](/ASIC_Design_Engineer.md) -上海 
+#### 4.[ASIC Verificationn Engineer](/ASIC_Verification_Engineer.md) -上海 
+#### 5.[Video_Architect](/ASIC_Architect.md) -上海 
+
 
 #### [深度学习面向客户类]
 #### 1.[深度学习解决方案架构师](/Solution_Architect.md) - 上海 深圳 北京
