@@ -4,7 +4,7 @@
 *我们,就是AI计算的引领者NVIDIA, 梦想的机会就在眼前 ,你来不来?*
 
 **[关于Tracy]**  
-NVIDIA Senior Recruiter, 负责NVIDIA China 深度学习/高性能计算/无人驾驶岗位招聘-[Linkedin主页](https://www.linkedin.com/in/tracy-nvidia/ "悬停显示")
+NVIDIA Senior Recruiter, 负责NVIDIA 硬件芯片类/深度学习/高性能计算/无人驾驶岗位招聘-[Linkedin主页](https://www.linkedin.com/in/tracy-nvidia/ "悬停显示")
 
 **[简历投递]**    
 邮箱: tracyw@nvidia.com     Wechat: 1751315121    
