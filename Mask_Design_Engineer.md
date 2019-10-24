@@ -14,9 +14,9 @@ What you’ll be doing:
 - Excellent communication in English
 - Openness and team cooperation consciousness
 - A passionate drive to deliver excellent works rather than complete tasks
-- Ways to stand out from the crowd:
 
-## Experience on Standard Cell or SRAM layout design##
+## Ways to stand out from the crowd:##
+-  Experience on Standard Cell or SRAM layout design##
 - Experience on layout design in 16/14nm node and beyond
 - Knowledge in place and route
 - Proficient user of Skill or Perl
