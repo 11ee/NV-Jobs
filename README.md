@@ -17,7 +17,8 @@ NVIDIA Senior Recruiter, 负责NVIDIA China 深度学习/高性能计算/无人�
 #### 3.[ASIC Design Engineer](/ASIC_Design_Engineer.md) -上海 
 #### 4.[ASIC Verification Engineer](/ASIC_Verification_Engineer.md) -上海 
 #### 5.[Video_Architect](/Video_Architect.md) -上海 
-
+#### 6.[Mask Design Engineer](/MASK_Design_Engineer.md) -上海 
+#### 7.[Circuit Design Engineer](/Circuit_Design_Engineer.md) -上海 
 
 #### [深度学习面向客户类]
 #### 1.[深度学习解决方案架构师](/Solution_Architect.md) - 上海 深圳 北京
@@ -27,8 +28,9 @@ NVIDIA Senior Recruiter, 负责NVIDIA China 深度学习/高性能计算/无人�
 
 #### [深度学习软件类]
 #### 1.[深度学习性能架构师](/深度学习性能架构师.md) - 上海 北京
-#### 2.[深度学习软件工程师(C++)](/深度学习软件工程师.md) - 上海 北京
-#### 3.[AI Developer Technology Engineer](/AI_Developer_Technology_Engineer.md) - 上海 北京 深圳
+#### 2.[深度学习DLA架构师](/Deep_Learning_Architect_DLA.md) - 上海
+#### 3.[深度学习软件工程师(C++)](/深度学习软件工程师.md) - 上海 北京
+#### 4.[AI Developer Technology Engineer](/AI_Developer_Technology_Engineer.md) - 上海 北京 深圳
  
 ****
 ---
@@ -39,6 +41,10 @@ ___
 
 
 #### [往期岗位] 
+#### [芯片类]
+#### [DFT Engineer](/DFT_Engineer.md) -上海
+
+
 #### [深度学习岗位]
 #### [深度学习Leader/Manager(视频算法/计算机视觉)](/Video_Analytics_Algorithm_Development_Leader.md) - 上海 北京
 #### [深度学习DLA架构师](/Deep_Learning_Architect_DLA.md) - 上海
