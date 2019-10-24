@@ -1,12 +1,11 @@
-## What you'll be doing:##
-
+## What you'll be doing:
 - High performance, low power, small area custom digitalcircuit design for graphics processors.
 - Circuit architecting, simulation and characterization of custom design circuit.
 - Logic equivalence checking and transistor level function verification.
 - Participating in building CAD flow for circuit design.
 - Layout floor planning and supervision.
  
-## What we need to see:##
+## What we need to see:
 - BSEE minimum, MSEE preferred.
 - Strong background in deep submicron CMOS process and device.
 - Good knowledge in high speed digitalcircuit design techniques.
