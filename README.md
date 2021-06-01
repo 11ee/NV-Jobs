@@ -1,15 +1,15 @@
-#### >>>>>>> >>>>>>NVIDIA 最新社招岗位列表 by 2021.6 <<<<<<<<<<<  
+### >>>>>>> >>>>>>NVIDIA 最新社招岗位列表 by 2021.6 <<<<<<<<<<<  
 
 #### *We want NVIDIA to be a place where the best people can do their life’s work and solve some of the world’s toughest challenges. Attracting and developing employees with diverse backgrounds and experiences is key to unlocking our full potential in creating groundbreaking products.”  -Jensen*  :raised_hands: #### 
 
 NVIDIA在1999年发明了GPU，它激发了PC游戏市场的增长，重新定义了现代计算机显卡，并且对并行计算进行了革新。通过将GPU作为可以感知和理解世界的计算机、机器人乃至自动驾驶汽车的大脑，GPU深度学习再度点燃了全新的计算时代——现代人工智能。
 
 
-**[关于Tracy]**  
+****[关于Tracy]****  
 NVIDIA Senior Recruiter, 负责NVIDIA 硬件芯片类岗位招聘-[Linkedin主页](https://www.linkedin.com/in/tracy-nvidia/ "悬停显示")
 
 
-**[简历投递]**    
+****[简历投递]****   
 邮箱: tracyw@nvidia.com     Wechat: 1751315121      
 
 ### [目前热招岗位] 
