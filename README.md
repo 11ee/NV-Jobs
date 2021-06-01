@@ -1,7 +1,7 @@
 __>>>NVIDIA社招岗位列表 by 2021.6__
 
-**We want NVIDIA to be a place where the best people can do their life’s work and solve some of the world’s toughest challenges. 
-__Attracting and developing employees with diverse backgrounds and experiences is key to unlocking our full potential in creating groundbreaking products.” 
+***We want NVIDIA to be a place where the best people can do their life’s work and solve some of the world’s toughest challenges.  
+__Attracting and developing employees with diverse backgrounds and experiences is key to unlocking our full potential in creating groundbreaking products.” ***
                                                                                                                                  **-Jensen Huang*  :raised_hands:
                                                                                                                 
 
