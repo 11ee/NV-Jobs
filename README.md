@@ -1,11 +1,10 @@
 __>>>NVIDIA社招岗位列表 by 2021.6__
 
-***We want NVIDIA to be a place where the best people can do their life’s work and solve some of the world’s toughest challenges.***  
-***Attracting and developing employees with diverse backgrounds and experiences is key to unlocking our full potential in creating groundbreaking products.”-Jensen Huang :raised_hands:***
-
-                                                                                                                             
 __NVIDIA AI 计算公司中的领导者__
 1999 年，NVIDIA 发明了 GPU, 这极大地推动了 PC 游戏市场的发展，重新定义了现代计算机图形技术，并彻底改变了并行计算。最近，GPU 深度学习为现代 AI 这个新的计算时代带来了新动力 - GPU 在能够感知和理解世界的计算机、机器人和自动驾驶汽车中发挥着大脑的作用。
+
+***We want NVIDIA to be a place where the best people can do their life’s work and solve some of the world’s toughest challenges.***  
+***Attracting and developing employees with diverse backgrounds and experiences is key to unlocking our full potential in creating groundbreaking products.”-Jensen Huang :raised_hands:***
 
 
 ****[关于Tracy]****  
