@@ -31,7 +31,7 @@ DFD: Design for Debug
 -	DFT Infrastructure / Flow Development
 
 ### 我们期待这样的你
--	 了解 DFT 的主要技术，具备 Scan / ATPG / BIST / JTAG / Clocks / Bringup 等任一方向工作经验（对 NCG 或 Intern 可不做要求）
+-	 了解 DFT 的主要技术，具备 Scan / ATPG / BIST / JTAG / Clocks / Bringup 等任一方向工作经验（对应届毕业同学不做要求）
 -	 熟悉 Tcl、Perl、Python 等脚本语言
 -	 有数字芯片前端或后端设计经验为加分项
 -	 良好的英语读写和口语交流能力
