@@ -1,6 +1,7 @@
 ## NVIDIA ASIC PD 团队召集令 | 参与世界上几乎最大的芯片物理设计  :clap:
 
-简历投递: tracyw@nvidia.com 微信: 1751315121 岗位地点：上海  
+简历投递: tracyw@nvidia.com    微信: 1751315121     岗位地点：上海    
+
 
 
 你是否也想成为一名芯片设计师，改变世界？:point_left:   
