@@ -1,8 +1,12 @@
-### >>>>>>> >>>>>>NVIDIA 最新社招岗位列表 by 2021.6 <<<<<<<<<<<  
+### >>>NVIDIA 最新社招岗位列表 by 2021.6 <<<
 
-#### *We want NVIDIA to be a place where the best people can do their life’s work and solve some of the world’s toughest challenges. Attracting and developing employees with diverse backgrounds and experiences is key to unlocking our full potential in creating groundbreaking products.”  -Jensen*  :raised_hands: #### 
+#### We want NVIDIA to be a place where the best people can do their life’s work and solve some of the world’s toughest challenges. 
+#### Attracting and developing employees with diverse backgrounds and experiences is key to unlocking our full potential in creating groundbreaking products.” 
+####                                                                                                                                 -Jensen*  :raised_hands:
+                                                                                                                
 
-NVIDIA在1999年发明了GPU，它激发了PC游戏市场的增长，重新定义了现代计算机显卡，并且对并行计算进行了革新。通过将GPU作为可以感知和理解世界的计算机、机器人乃至自动驾驶汽车的大脑，GPU深度学习再度点燃了全新的计算时代——现代人工智能。
+#### NVIDIA AI 计算公司中的领导者
+1999 年，NVIDIA 发明了 GPU, 这极大地推动了 PC 游戏市场的发展，重新定义了现代计算机图形技术，并彻底改变了并行计算。最近，GPU 深度学习为现代 AI 这个新的计算时代带来了新动力 - GPU 在能够感知和理解世界的计算机、机器人和自动驾驶汽车中发挥着大脑的作用。
 
 
 ****[关于Tracy]****  
@@ -10,7 +14,7 @@ NVIDIA Senior Recruiter, 负责NVIDIA 硬件芯片类岗位招聘-[Linkedin主�
 
 
 ****[简历投递]****   
-邮箱: tracyw@nvidia.com     Wechat: 1751315121      
+邮箱: tracyw@nvidia.com     微信: 1751315121      
 
 ### [目前热招岗位] 
 
@@ -18,13 +22,12 @@ NVIDIA Senior Recruiter, 负责NVIDIA 硬件芯片类岗位招聘-[Linkedin主�
 #### [VLSI Physical Design Engineer-数字后端](/VLSI_Physical_Design_Engineer.md) - 上海 北京
 #### [DFT Engineer](/DFT_Engineer.md) -上海
 #### [ASIC Physical Design Engineer-综合时序](/ASIC_Physical_Design_Engineer.md) - 上海   
-......
-......
-......
-......
-......
-
---持续更新中
+......  
+......  
+......  
+......  
+......  
+持续更新中  
 
 
 
