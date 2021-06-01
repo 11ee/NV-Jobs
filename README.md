@@ -2,7 +2,7 @@
 
 #### We want NVIDIA to be a place where the best people can do their life’s work and solve some of the world’s toughest challenges. 
 #### Attracting and developing employees with diverse backgrounds and experiences is key to unlocking our full potential in creating groundbreaking products.” 
-####                                                                                                                                 -Jensen*  :raised_hands:
+####                                                                                                                                   -Jensen Huang*  :raised_hands:
                                                                                                                 
 
 #### NVIDIA AI 计算公司中的领导者
