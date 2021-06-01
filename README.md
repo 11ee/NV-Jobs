@@ -2,7 +2,7 @@ __>>>NVIDIA社招岗位列表 by 2021.6__
 
 **We want NVIDIA to be a place where the best people can do their life’s work and solve some of the world’s toughest challenges. 
 __Attracting and developing employees with diverse backgrounds and experiences is key to unlocking our full potential in creating groundbreaking products.” 
-__                                                                                                                                  -Jensen Huang*  :raised_hands:
+                                                                                                                                 **-Jensen Huang*  :raised_hands:
                                                                                                                 
 
 __NVIDIA AI 计算公司中的领导者__
@@ -10,7 +10,7 @@ __NVIDIA AI 计算公司中的领导者__
 
 
 ****[关于Tracy]****  
-NVIDIA Senior Recruiter, 负责NVIDIA 硬件芯片类岗位招聘-[Linkedin主页](https://www.linkedin.com/in/tracy-nvidia/ "悬停显示")
+负责NVIDIA 硬件芯片类岗位招聘-[Linkedin主页](https://www.linkedin.com/in/tracy-nvidia/ "悬停显示")
 
 
 ****[简历投递]****   
