@@ -14,7 +14,7 @@ NVIDIA Senior Recruiter, 负责NVIDIA 硬件芯片类/深度学习/高性能计�
 ### [目前热招岗位] 
 
 #### [芯片类]
-#### [VLSI Physical Design Engineer](/VLSI Physical Design Engineer.md) - 上海 北京
+#### [VLSI Physical Design Engineer-数字后端](/VLSI_Physical_Design_Engineer.md) - 上海 北京
 #### [DFT Engineer](/DFT_Engineer.md) -上海
 #### [ASIC Design Floorplan Engineer](/ASIC Design Floorplan Engineer.md) -上海 
 #### [ASIC Physical Design Engineer-综合时序](/ASIC Physical Design Engineer-综合时序.md) - 北京 上海 深圳 
