@@ -17,9 +17,7 @@
 
 作为 ASIC-PD 团队成员，你将参与 GPU 和 Tegra 产品线的研发，与 IP，DFT，PR，Library 等各团队紧密合作，完成从 RTL freeze 到 tape out 除 DFT 和 P&R 之外的芯片实现工作。如以高品质按计划完成芯片网表，时序约束。  
 
-工作内容还包括各模式各层次各corner的时序分析修复，sign off，对流程的优化和改进，以及对新工艺的研究和使用。 
-
-#### 工作内容:####
+**工作内容**包括各模式各层次各corner的时序分析修复，sign off，对流程的优化和改进，以及对新工艺的研究和使用。 
 - Synthesis 
 - Formal check 
 - Design quality check 
