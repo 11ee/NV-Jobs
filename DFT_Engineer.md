@@ -1,11 +1,11 @@
 ### NVIDIA 招聘 | 携手 DFX 团队，为芯片量产加速  
 
-**关于 DFT 的迫切三连问**
+**关于 DFT 的迫切三连问**  
 **Q1** 随着芯片工艺不断进步，设计规模持续增加，DFT 应当如何控制测试成本，保证产品质量呢？  
 **Q2** 面对强劲的市场需求，在芯片产能受限的情况下，如何通过提升良率来增加供给呢？  
 **Q3** 自动驾驶环境下的芯片应当如何提高测试标准来保证产品品质，如何实现系统自测试（IST - In System Test）和在线测试（Online Test）来保证系统安全呢？
 
-**直击痛点的回答出炉喽** 
+**直击痛点的回答出炉喽**   
 DFT  需要不断进化和创新来应对新工艺新需求，目前，DFT 已经转变为多维度的 DFX，关于什么是 DFX, 一个公式告诉你：  
 DFX  DFT+DFM+DFR+DFD+……  
 DFT：Design for Testability  
@@ -13,7 +13,7 @@ DFM: Design for Manufacturability
 DFR: Design for Reliability  
 DFD: Design for Debug  
 
-![alt](https://mp.weixin.qq.com/s/kEcUpZfG0YtzXfSBQqygfg)
+![alt](C:\Users\tracyw\Desktop\WeChat Image_20210601104606.jpg)
 
 在 NVIDIA DFX 团队，聚集着来自全球各地的专家及优秀人才，若想体验全球化的团队协作，这里一定是不二之选。在这里，你可以抢先见证最前沿且持续创新的 DFT / DFX 技术。这里有强大的设计和验证平台，为一次流片成功提供强有力的支持。除此之外，NVIDIA DFX 团队拥有开放的企业文化，同时还为团队成员提供了更多的职业发展机会。  
 
