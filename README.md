@@ -17,17 +17,14 @@ NVIDIA Senior Recruiter, 负责NVIDIA 硬件芯片类岗位招聘-[Linkedin主�
 #### [芯片类]
 #### [VLSI Physical Design Engineer-数字后端](/VLSI_Physical_Design_Engineer.md) - 上海 北京
 #### [DFT Engineer](/DFT_Engineer.md) -上海
-#### [ASIC Physical Design Engineer-综合时序](/ASIC_Physical_Design_Engineer.md) - 北京 上海 深圳   
+#### [ASIC Physical Design Engineer-综合时序](/ASIC_Physical_Design_Engineer.md) - 上海   
+......
+......
+......
+......
+......
 
 --持续更新中
-
-
-
-
-
-
-
-
 
 
 
