@@ -1,7 +1,9 @@
-*我们是Glassdoor选出的“最佳工作场所”   
-我们是《人物》选出的“年度关爱公司*  
-*我们是《财富》选出的“全球最受赞赏公司” 我们这里还有“评价最高的 CEO*  
-*我们,就是AI计算的引领者NVIDIA, 梦想的机会就在眼前 ,你来不来?*
+We want NVIDIA to be a place where the best people can do their life’s work and solve some of the world’s toughest challenges. Attracting and developing employees with diverse backgrounds and experiences is key to unlocking our full potential in creating groundbreaking products.” -Jensen  
+
+
+>>>>>>> >>>>>>NVIDIA 最新社招岗位列表 by 2021.6 <<<<<<<<<<<  
+
+NVIDIA在1999年发明了GPU，它激发了PC游戏市场的增长，重新定义了现代计算机显卡，并且对并行计算进行了革新。通过将GPU作为可以感知和理解世界的计算机、机器人乃至自动驾驶汽车的大脑，GPU深度学习再度点燃了全新的计算时代——现代人工智能。更多信息，请访问 https://www.nvidia.cn
 
 **[关于Tracy]**  
 NVIDIA Senior Recruiter, 负责NVIDIA 硬件芯片类/深度学习/高性能计算/无人驾驶岗位招聘-[Linkedin主页](https://www.linkedin.com/in/tracy-nvidia/ "悬停显示")
@@ -11,11 +13,6 @@ NVIDIA Senior Recruiter, 负责NVIDIA 硬件芯片类/深度学习/高性能计�
  
 ### [目前热招岗位] 
 
-#### [深度学习面向客户类]
-#### [深度学习解决方案架构师](/Solution_Architect.md) - 上海 深圳 北京
-#### [HPC解决方案架构师](/HPC_Architect.md) -北京 上海 深圳
-#### [FAE Engineer](/Senior_FAE_Engineer.md) - 上海 深圳 北京
-
 #### [深度学习软件类]
 #### [深度学习性能架构师](/深度学习性能架构师.md) - 上海 北京
 #### [AI Developer Technology Engineer](/AI_Developer_Technology_Engineer.md) - 上海 北京 深圳
@@ -23,16 +20,6 @@ NVIDIA Senior Recruiter, 负责NVIDIA 硬件芯片类/深度学习/高性能计�
 #### [高性能计算研发工程师](/高性能计算研发工程师.md) - 北京 上海 深圳 
 #### [HPC解决方案架构师](/HPC_Architect.md) -北京   
 #### [计算机视觉工程师]
-
-#### [架构类-C++]
-#### [图形架构师]
-#### [SM Architect]
-#### [Tegra Architect]
-#### [GPU Architect]
-
-#### [嵌入式岗位]
-#### [嵌入式开发工程师-BSP](/Senior_Embedded_Software_Engineer.md)- 上海
-
 
 
 
@@ -55,6 +42,16 @@ NVIDIA Senior Recruiter, 负责NVIDIA 硬件芯片类/深度学习/高性能计�
 #### [GPU Computing Engineer](/GPU_Computing_Engineer.md)-北京 上海 深圳 
 #### [机器学习算法工程师](/机器学习算法工程师.md) -上海 北京 深圳
 #### [高性能计算研发工程师](/高性能计算研发工程师.md) - 北京 上海 深圳
+#### [深度学习解决方案架构师](/Solution_Architect.md) - 上海 深圳 北京
+#### [HPC解决方案架构师](/HPC_Architect.md) -北京 上海 深圳
+#### [FAE Engineer](/Senior_FAE_Engineer.md) - 上海 深圳 北京
+#### [深度学习软件类]
+#### [深度学习性能架构师](/深度学习性能架构师.md) - 上海 北京
+#### [AI Developer Technology Engineer](/AI_Developer_Technology_Engineer.md) - 上海 北京 深圳
+#### [机器学习算法工程师](/机器学习算法工程师.md) -上海 北京 深圳
+#### [高性能计算研发工程师](/高性能计算研发工程师.md) - 北京 上海 深圳 
+#### [HPC解决方案架构师](/HPC_Architect.md) -北京   
+#### [计算机视觉工程师]
       
 #### [无人驾驶/汽车岗位]
 #### [无人汽车解决方案经理](Autonomous_Solution_Manager.md)- 上海 北京
