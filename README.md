@@ -13,13 +13,19 @@ NVIDIA Senior Recruiter, 负责NVIDIA 硬件芯片类/深度学习/高性能计�
  
 ### [目前热招岗位] 
 
-#### [深度学习软件类]
-#### [深度学习性能架构师](/深度学习性能架构师.md) - 上海 北京
-#### [AI Developer Technology Engineer](/AI_Developer_Technology_Engineer.md) - 上海 北京 深圳
-#### [机器学习算法工程师](/机器学习算法工程师.md) -上海 北京 深圳
-#### [高性能计算研发工程师](/高性能计算研发工程师.md) - 北京 上海 深圳 
-#### [HPC解决方案架构师](/HPC_Architect.md) -北京   
-#### [计算机视觉工程师]
+#### [芯片类]
+#### [数字后端工程师](/数字后端工程师.md) - 上海 北京
+#### [DFT Engineer](/DFT Engineer.md) - 上海 
+#### [ASIC Design Floorplan Engineer](/ASIC Design Floorplan Engineer.md) -上海 
+#### [ASIC Physical Design Engineer-综合时序](/ASIC Physical Design Engineer-综合时序.md) - 北京 上海 深圳 
+
+
+
+
+
+
+
+
 
 
 
