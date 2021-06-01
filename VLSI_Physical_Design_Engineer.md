@@ -1,5 +1,5 @@
 
-## NNVIDIA 社招 | 携手 VLSI Physical Design 团队，见证顶级芯片诞生  :blush:
+## NNVIDIA 社招 | 携手 VLSI Physical Design 团队，见证顶级芯片诞生  :smile:
 
 简历投递: tracyw@nvidia.com 微信: 1751315121
 
@@ -7,7 +7,7 @@
 *你想亲手设计最新一代的 GPU 吗？*  
 *你想和我们一起推动 AI 的发展吗?* 
 
-**当前，芯片后端物理设计面临着越来越严峻的挑战：** fire:
+**当前，芯片后端物理设计面临着越来越严峻的挑战**  :fire: 
 - 芯片规模的增大  
 - 频率的提升  
 - 工艺的进步，特征尺寸的减小  
