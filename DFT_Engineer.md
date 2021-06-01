@@ -1,5 +1,7 @@
 ### NVIDIA 招聘 | 携手 DFX 团队，为芯片量产加速  
 
+简历投递: tracyw@nvidia.com 微信: 1751315121
+
 **关于 DFT 的迫切三连问**  
 **Q1** 随着芯片工艺不断进步，设计规模持续增加，DFT 应当如何控制测试成本，保证产品质量呢？  
 **Q2** 面对强劲的市场需求，在芯片产能受限的情况下，如何通过提升良率来增加供给呢？  
@@ -13,11 +15,9 @@ DFM: Design for Manufacturability
 DFR: Design for Reliability  
 DFD: Design for Debug  
 
-![alt](C:\Users\tracyw\Desktop\WeChat Image_20210601104606.jpg)
-
 在 NVIDIA DFX 团队，聚集着来自全球各地的专家及优秀人才，若想体验全球化的团队协作，这里一定是不二之选。在这里，你可以抢先见证最前沿且持续创新的 DFT / DFX 技术。这里有强大的设计和验证平台，为一次流片成功提供强有力的支持。除此之外，NVIDIA DFX 团队拥有开放的企业文化，同时还为团队成员提供了更多的职业发展机会。  
 
-目前，NVIDIA 上海 DFX 团队已拥有各个领域的技术专家，具备独立完成芯片 DFT 设计和实现的能力，在全球团队中引领 DFT 的设计验证工作。该团队在上海设有 ATE lab 和 ATE 测试机台，可以第一时间解决芯片生产初期 bringup 的问题，从而实现为芯片量产加速。
+**目前** NVIDIA 上海 DFX 团队已拥有各个领域的技术专家，具备独立完成芯片 DFT 设计和实现的能力，在全球团队中引领 DFT 的设计验证工作。该团队在上海设有 ATE lab 和 ATE 测试机台，可以第一时间解决芯片生产初期 bringup 的问题，从而实现为芯片量产加速。
 
 **你将在这些方面施展才华** 
 -	你将参与 GPU 和 Tegra 产品线的研发，与 SOC、PD、PR 等团队配合，完成 DFT 从 RTL 到 tape out 的芯片实现工作；与 TE、PE 等团队合作，完成芯片 ATE bringup 工作。  
