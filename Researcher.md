@@ -1,4 +1,4 @@
-**Research Scientist, Computer Vision and/or Deep Learning**-台北
+**Research Scientist, Computer Vision and/or Deep Learning**-Taipei
 
 NVIDIA is searching for several outstanding computer vision and deep learning researchers to join our new research team in Taipei. We are passionate about research that pushes boundaries but also has impact in the real world. Specific areas we are excited by include but are not limited to computer vision for multimodal AI (e.g., vision and language, audio-visual learning, etc.), transfer and meta learning, as well as explainable and trustworthy AI. You will work within an amazing and collaborative research organization that consistently publishes at the top venues across computer science. You have the opportunity to join and shape a new research team, where your contributions can create real impact on our products.
 
