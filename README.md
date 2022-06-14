@@ -15,10 +15,8 @@ Attracting and developing employees with diverse backgrounds and experiences is 
 邮箱: tracyw@nvidia.com     微信: 1751315121      
 
 #### [目前热招岗位]   
-
-#### [VLSI Physical Design Engineer-数字后端](/VLSI_Physical_Design_Engineer.md) - 上海 北京
-#### [DFT Engineer](/DFT_Engineer.md) -上海
-#### [ASIC Physical Design Engineer-综合时序](/ASIC_Physical_Design_Engineer.md) - 上海   
+#### [深度学习性能架构师](/深度学习性能架构师.md) - 台湾
+#### [Research Scientist-Computer Vision and/or Deep Learning](/Researcher.md)-台北
 ......  
 ......  
 ......  
@@ -36,7 +34,10 @@ Attracting and developing employees with diverse backgrounds and experiences is 
 #### [ASIC Verification Engineer](/ASIC_Verification_Engineer.md) -上海 
 #### [Video_Architect](/Video_Architect.md) -上海 
 #### [Mask Design Engineer](/MASK_Design_Engineer.md) -上海 
-#### [Circuit Design Engineer](/Circuit_Design_Engineer.md) -上海 
+#### [Circuit Design Engineer](/Circuit_Design_Engineer.md) -上海
+#### [VLSI Physical Design Engineer-数字后端](/VLSI_Physical_Design_Engineer.md) - 上海 北京
+#### [DFT Engineer](/DFT_Engineer.md) -上海
+#### [ASIC Physical Design Engineer-综合时序](/ASIC_Physical_Design_Engineer.md) - 上海 
 
 #### [深度学习岗位]
 #### [深度学习Leader/Manager(视频算法/计算机视觉)](/Video_Analytics_Algorithm_Development_Leader.md) - 上海 北京
