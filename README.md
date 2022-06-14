@@ -9,8 +9,7 @@ Attracting and developing employees with diverse backgrounds and experiences is 
 
 
 ****[关于Tracy]****  
-目前负责NVIDIA 硬件芯片类岗位招聘-[Linkedin主页](https://www.linkedin.com/in/tracy-nvidia/ "悬停显示")
-
+目前负责NVIDIA 深度学习/芯片类岗位招聘-[Linkedin主页](https://www.linkedin.com/in/tracy-nvidia/ "悬停显示")
 
 ****[简历投递]****   
 邮箱: tracyw@nvidia.com     微信: 1751315121      
