@@ -1,18 +1,21 @@
-**Senior Video Architecture Engineer-shanghai**
+**Senior C++ Modeling Engineer**
 
 **What you’ll be doing:**
-- Work on NVIDIA's next generation of Video Decoder and Encoder hardware architecture
-- Research and study new video compression technology, specifications, papers etc.
-- Develop c-model for algorithm study, hardware simulation and verification
-- Define the testplan, write architecture document, verify c-model and improve c-model coverage 
+- Investigate and propose architecture ideas based on quantitative study of existing and projected SM architecture.
+- Develop performance and functional simulation models.
+- Develop performance and functional testplan and tests to validate new SM architectural and features.
+- Test and debug on simulators, RTL and real silicon.
 
 **What we need to see**
-- Master degree or above in Computer Science, Electronic Engineering
-- Minimum of 3 years' experience in the field of video technology ranging from codec implementation, video player and streaming framework
-- Good programming skill and C/C++ coding abilities
-- Fluent English (both written and spoken) and good communication skill
+- In depth knowledge of computer architecture, with good understanding of modern ISA and microprocessor implementation techniques.
+- Good understanding of GPU concept and pipeline, in terms of Graphics processing and parallel compute.
+- Good mastery of C++ language and at least 3 years of C/C++ development experience.
+- Experience of performance/functional modelling, profiling and analysis is a plus.
+- Experience with trace-driven and execution-driven simulation model development is a plus.
+- BSEE, BSCSE, or equivalent required. MS or PhD is a plus.
+- Candidates with GPU shader unit design, microprocessor design, and CPU/GPU performance analysis experience are preferred.
 
 **Ways to stand out from the crowd:**
-- Project experiences on video encoder, decoder or computer vision
-- Experience with video codecs such as H264/AVC, HEVC, VP9 or AV1
-- Creative, strong analysis, design and debug skill
+- Candidates with GPU shader unit design, microprocessor design, and CPU/GPU performance analysis experience are preferred.
+
+
