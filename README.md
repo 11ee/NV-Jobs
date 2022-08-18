@@ -15,7 +15,7 @@ Attracting and developing employees with diverse backgrounds and experiences is 
 邮箱: tracyw@nvidia.com     微信: 1751315121      
 
 #### [目前热招岗位]   
-#### [深度学习性能架构师](/深度学习性能架构师.md) - 台北 上海 北京
+#### [Deep Learning Performance Architect](/深度学习性能架构师.md) - 台北 上海 北京
 #### [SOC Design Verification Engineer](/DV.md)- 台北 新竹
 #### [AI Developer Technology Engineer](/AI_Developer_Technology_Engineer.md) - 台北
 #### [DFT Engineer](/DFT_Engineer.md) -上海
