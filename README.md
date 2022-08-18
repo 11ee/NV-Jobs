@@ -16,13 +16,18 @@ Attracting and developing employees with diverse backgrounds and experiences is 
 
 #### [目前热招岗位]   
 #### [深度学习性能架构师](/深度学习性能架构师.md) - 台湾 上海 北京
-#### [Research Scientist-Computer Vision and/or Deep Learning](/Researcher.md)-台北
-#### [Solution Architect Manager-HER](/经理-解决方案.md)-台湾
+#### [SOC Design Verification Engineer](/DV.md)- 台北 新竹
 #### [AI Developer Technology Engineer](/AI_Developer_Technology_Engineer.md) - 台北
 #### [DFT Engineer](/DFT_Engineer.md) -上海
 #### [C++ Modeling Engineer](/TPC_Arch.md) -上海 北京 
 ......  
 持续更新中  
+
+
+
+
+
+
 
 
 
@@ -40,6 +45,8 @@ Attracting and developing employees with diverse backgrounds and experiences is 
 #### [ASIC Physical Design Engineer-综合时序](/ASIC_Physical_Design_Engineer.md) - 上海 
 
 #### [深度学习岗位]
+#### [Research Scientist-Computer Vision and/or Deep Learning](/Researcher.md)-台北
+#### [Solution Architect Manager-HER](/经理-解决方案.md)-台湾
 #### [深度学习Leader/Manager(视频算法/计算机视觉)](/Video_Analytics_Algorithm_Development_Leader.md) - 上海 北京
 #### [深度学习DLA架构师](/Deep_Learning_Architect_DLA.md) - 上海
 #### [解决方案架构师](/Solution_Architect.md) - 上海 深圳 北京
