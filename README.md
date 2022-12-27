@@ -18,24 +18,9 @@ Attracting and developing employees with diverse backgrounds and experiences is 
 #### [Deep Learning Performance Architect](/深度学习性能架构师.md) - 台北 上海 北京
 #### [SOC Design Verification Engineer](/DV.md)- 台北 新竹
 #### [AI Developer Technology Engineer](/AI_Developer_Technology_Engineer.md) - 台北
-#### [DFT Engineer](/DFT_Engineer.md) -上海
-#### [C++ Modeling Engineer](/TPC_Arch.md) -上海 北京 
-......  
+#### [Research Scientist-Computer Vision and/or Deep Learning](/Researcher.md)-台北
+#### [ASIC Design Engineer](/ASIC_Design_Engineer.md) -台北 新竹.  
 持续更新中  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
